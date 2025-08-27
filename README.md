@@ -1,10 +1,11 @@
-# 👨‍💻 Matheus Marquezin
-
-**`Analista de Dados | SQL • Power BI • DAX`**
+## Sobre mim  
 
 🎓 Formado em Logística pela UNIP - Sorocaba
+
 📊 Atuo como Analista de Dados, unindo SQL, Power BI e DAX para transformar dados em decisões estratégicas
+
 🚀 Em constante aprendizado para ampliar soluções em análise e visualização de dados
+
 ---
 
 
@@ -14,7 +15,7 @@
 ---
 
 ### 🤖 Linguagens e Tecnologias
-**Banco de Dados ( Estudando )**  
+ 
 <img 
     align="left" 
     alt="SQL Server" 
@@ -29,9 +30,6 @@
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<br/><br/>
-
-**Visualização**  
 <img 
     align="left" 
     alt="Power BI" 
@@ -39,10 +37,6 @@
     width="40px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000"/>
-
-<br/><br/>
-
-**Ferramentas**  
 <img 
     align="left" 
     alt="Git" 
@@ -89,9 +83,14 @@
 
 ---
 
-### 🚀 Projetos em Destaque  
+### ⭐ Repositórios em Destaque  
 
-- [📊 Dashboard Controle de Produtos](https://github.com/matheusmarquezinhub/Projeto01) - [Link Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmJiMjI5ODktMjQxNi00Yzc3LWI0OTYtYjg1NjI0YzliZWRiIiwidCI6IjA0NWZiZjVjLTBjMzItNDdhMy1hYWI2LThlZjE3MGVlODY5MSJ9)
+- [📊  Repositório Projeto01](https://github.com/matheusmarquezinhub/Projeto01)
 
 ---
 
+### 🎯 Projetos em Destaque
+
+- 📊 Dashboard Projeto01 [Link Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmJiMjI5ODktMjQxNi00Yzc3LWI0OTYtYjg1NjI0YzliZWRiIiwidCI6IjA0NWZiZjVjLTBjMzItNDdhMy1hYWI2LThlZjE3MGVlODY5MSJ9)
+
+---
