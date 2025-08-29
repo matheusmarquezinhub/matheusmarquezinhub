@@ -8,10 +8,6 @@
 
 ---
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/matmarquuezin/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/matheusmarquuezin?igsh=cWhodDRpNDQ0YzM3&utm_source=qr)
-
----
 
 ### 🤖 Linguagens e Tecnologias
 
