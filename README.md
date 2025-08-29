@@ -1,13 +1,18 @@
-## Sobre Mim  
+## Olá! Sou Matheus Marques, Analista de Dados.
 
-🎓 **Formado em Logística pela UNIP - Sorocaba**  
+Minha especialidade é transformar dados em insights estratégicos que otimizam processos e impulsionam a eficiência operacional.
 
-📊 **Atuo como Analista de Dados**, unindo SQL, Power BI e DAX para transformar dados em decisões estratégicas.  
+Com 10 anos de experiência em logística, aplico o que aprendi em projetos práticos aqui no meu GitHub.
+
+Aqui você encontrará projetos focados em:
+
+SQL e Power BI: Para manipular, analisar e visualizar grandes volumes de dados.
+
+Dashboards e KPIs: Visualizações criadas com Power BI que demonstram como dados podem guiar decisões de negócios.
+
+🎓 Formação:  Logística - UNIP Sorocaba.
 
 🚀 **Em constante aprendizado** para ampliar soluções em análise e visualização de dados.  
-
----
-
 
 ### 🤖 Linguagens e Tecnologias
 
