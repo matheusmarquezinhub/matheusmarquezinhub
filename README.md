@@ -1,4 +1,4 @@
-## Olá! Sou Matheus,
+## Olá! Sou Matheus
 
 Minha especialidade é transformar dados em insights estratégicos que otimizam processos e impulsionam a eficiência operacional.
 
