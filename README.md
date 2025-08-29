@@ -1,20 +1,26 @@
-## Olá! Sou Matheus
+# Olá! Sou Matheus
 
 Minha especialidade é transformar dados em insights estratégicos que otimizam processos e impulsionam a eficiência operacional.
 
 Com 10 anos de experiência em logística, aplico o que aprendi em projetos práticos aqui no meu GitHub.
 
-Aqui você encontrará projetos focados em:
+### Aqui você encontrará projetos focados em:
 
-SQL e Power BI: Para manipular, analisar e visualizar grandes volumes de dados.
+### SQL e Power BI
 
-Dashboards e KPIs: Visualizações criadas com Power BI que demonstram como dados podem guiar decisões de negócios.
+Para manipular, analisar e visualizar grandes volumes de dados.
 
-🎓 Formação:  Logística - UNIP Sorocaba.
+### Dashboards
 
-🚀 **Em constante aprendizado** para ampliar soluções em análise e visualização de dados.  
+Visualizações criadas com Power BI que demonstram como dados podem guiar decisões de negócios.
 
+#### 🎓 Formação:  Logística - UNIP Sorocaba.
+
+#### 🚀 **Em constante aprendizado** para ampliar soluções em análise e visualização de dados.  
+
+--- 
 ### 🤖 Linguagens e Tecnologias
+<br/>
 
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
     <img 
