@@ -1,22 +1,21 @@
-# Olá! Sou Matheus
+👋 Olá! Sou o Matheus
 
-Minha especialidade é transformar dados em insights estratégicos que otimizam processos e impulsionam a eficiência operacional.
+Especialista em dados e logística, com 11 anos de experiência transformando números em decisões estratégicas que otimizam processos e aumentam a eficiência operacional.
 
-Com 10 anos de experiência em logística, aplico o que aprendi em projetos práticos aqui no meu GitHub.
+Aqui no GitHub você vai encontrar projetos que unem minha vivência prática com ferramentas de análise de dados, sempre com foco em ganhos operacionais reais.
 
-### Aqui você encontrará projetos focados em:
+🔍 O que você encontra por aqui:
 
-### SQL e Power BI
+SQL & Power BI → Manipulação, análise e visualização de grandes volumes de dados.
 
-Para manipular, analisar e visualizar grandes volumes de dados.
+Dashboards Inteligentes → Visualizações em Power BI que mostram como dados bem tratados viram decisões de negócios.
 
-### Dashboards
+Projetos de Melhoria Contínua → Aplicação de metodologias como World Class Logistics (WCL) e Kaizen.
 
-Visualizações criadas com Power BI que demonstram como dados podem guiar decisões de negócios.
+🎓 Formação: Logística – UNIP Sorocaba
+🚀 Sempre aprendendo e aplicando novas soluções em análise e visualização de dados.
 
-#### 🎓 Formação:  Logística - UNIP Sorocaba.
-
-#### 🚀 **Em constante aprendizado** para ampliar soluções em análise e visualização de dados.  
+📎 Conecte-se comigo no (https://www.linkedin.com/in/matmarquuezin/)
 
 --- 
 ### 🤖 Linguagens e Tecnologias
