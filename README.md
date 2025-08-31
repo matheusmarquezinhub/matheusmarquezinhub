@@ -1,9 +1,14 @@
-# 👋 Olá! Sou o Matheus
+## Olá 👋, eu sou o Matheus!
+Bem-vindo ao meu perfil do GitHub!
+Transformo café em código e ideias em projetos que nascem da curiosidade e viram ferramentas úteis. Dá uma olhada nos repositórios e, se te ajudar, já valeu a visita!
 
----
+## 📫 Vamos nos conectar
+
+💼 Siga-me no [LinkedIn](https://www.linkedin.com/in/matmarquuezin)
+
+📬 Fale comigo aqui no GitHub
 
 ### 🤖 Linguagens e Tecnologias
-<br/>
 
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
     <img 
