@@ -1,8 +1,8 @@
-## Olá 👋, eu sou o Matheus!
+### Olá 👋, eu sou o Matheus!
 Bem-vindo ao meu perfil do GitHub!
 Transformo café em código e ideias em projetos que nascem da curiosidade e viram ferramentas úteis. Dá uma olhada nos repositórios e, se te ajudar, já valeu a visita!
 
-## 📫 Vamos nos conectar
+### 📫 Vamos nos conectar
 
 💼 Siga-me no [LinkedIn](https://www.linkedin.com/in/matmarquuezin)
 
@@ -45,8 +45,6 @@ Transformo café em código e ideias em projetos que nascem da curiosidade e vir
 
 <br/>
 
----
-
 ### 📊 Estatísticas
 
 <p>
@@ -59,10 +57,7 @@ Transformo café em código e ideias em projetos que nascem da curiosidade e vir
 
 <br/>
 
----
-
 ### 🎯 Projetos em Destaque
 
-- 📊 **Dashboard Projeto01**: [Link Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmJiMjI5ODktMjQxNi00Yzc3LWI0OTYtYjg1NjI0YzliZWRiIiwidCI6IjA0NWZiZjVjLTBjMzItNDdhMy1hYWI2LThlZjE3MGVlODY5MSJ9)
+📊 **Dashboard Projeto01**: [Link Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmJiMjI5ODktMjQxNi00Yzc3LWI0OTYtYjg1NjI0YzliZWRiIiwidCI6IjA0NWZiZjVjLTBjMzItNDdhMy1hYWI2LThlZjE3MGVlODY5MSJ9)
 
----
