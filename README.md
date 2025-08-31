@@ -1,31 +1,6 @@
 # 👋 Olá! Sou o Matheus
 
-Transformo dados em decisões estratégicas. Com 11 anos de experiência em logística, sei como números podem otimizar processos e aumentar a eficiência operacional de verdade.
-
-Aqui no GitHub você encontra projetos práticos, unindo minha vivência em logística com análise e visualização de dados, sempre com foco em resultados reais.
-
 ---
-
-### 🔍 O que você encontra aqui:
-
-SQL & Power BI → Manipulação, análise e visualização de grandes volumes de dados.
-
-Dashboards Inteligentes → Insights claros que ajudam a tomar decisões rápidas.
-
----
-
-### 🎓 Formação
-
-Logística – UNIP Sorocaba
-
----
-
-### 📎 Conecte-se comigo
-https://www.linkedin.com/in/matmarquuezin/
-
-🚀 Sempre aprendendo novas técnicas em análise e visualização de dados.
-
---- 
 
 ### 🤖 Linguagens e Tecnologias
 <br/>
