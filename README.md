@@ -56,12 +56,6 @@
 
 ---
 
-### ⭐ Repositórios em Destaque  
-
-- [📊 Repositório Projeto01](https://github.com/matheusmarquezinhub/Projeto01)
-- [💻 Medidas-Financeiras](https://github.com/matheusmarquezinhub/Medidas-Financeiras.git)
----
-
 ### 🎯 Projetos em Destaque
 
 - 📊 **Dashboard Projeto01**: [Link Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmJiMjI5ODktMjQxNi00Yzc3LWI0OTYtYjg1NjI0YzliZWRiIiwidCI6IjA0NWZiZjVjLTBjMzItNDdhMy1hYWI2LThlZjE3MGVlODY5MSJ9)
