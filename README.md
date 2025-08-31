@@ -2,11 +2,15 @@
 Bem-vindo ao meu perfil do GitHub!
 Transformo café em código e ideias em projetos que nascem da curiosidade e viram ferramentas úteis. Dá uma olhada nos repositórios e, se te ajudar, já valeu a visita!
 
+---
+
 ### 📫 Vamos nos conectar
 
 💼 Siga-me no [LinkedIn](https://www.linkedin.com/in/matmarquuezin)
 
 📬 Fale comigo aqui no GitHub
+
+---
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -45,6 +49,8 @@ Transformo café em código e ideias em projetos que nascem da curiosidade e vir
 
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <p>
@@ -56,6 +62,8 @@ Transformo café em código e ideias em projetos que nascem da curiosidade e vir
 </p>
 
 <br/>
+
+---
 
 ### 🎯 Projetos em Destaque
 
