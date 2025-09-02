@@ -15,7 +15,7 @@ Dá uma olhada nos repositórios e, se te ajudar, já valeu a visita! ✨
 
 ### 🤖 Linguagens e Tecnologias
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px;">
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
     <img 
         alt="SQL Server" 
         title="SQL Server" 
@@ -44,6 +44,11 @@ Dá uma olhada nos repositórios e, se te ajudar, já valeu a visita! ✨
 </div>
 
 <hr/>
+
+### 📊 Minhas Estatísticas
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=matheusmarquezinhub&show_icons=true&theme=dark)
+
 
 ### 🎯 Projetos em Destaque
 
