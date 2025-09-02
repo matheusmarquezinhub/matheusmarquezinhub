@@ -1,19 +1,22 @@
-### Olá 👋, eu sou o Matheus!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Matheus Marquezin
+=======================================================================================================================================
+
 Bem-vindo ao meu perfil do GitHub!  
 Transformo café em código e ideias em projetos que nascem da curiosidade e viram ferramentas úteis.  
 Dá uma olhada nos repositórios e, se te ajudar, já valeu a visita! ✨
 
-<hr/>
-
 ### 📫 Vamos nos conectar
 
-💼 [Siga-me no LinkedIn](https://www.linkedin.com/in/matmarquuezin)  
+---
 
-📬 [Fale comigo aqui no GitHub](https://github.com/matheusmarquezinhub)  
+* 💼 [Siga-me no LinkedIn](https://www.linkedin.com/in/matmarquuezin)  
 
-<hr/>
+* 📬 [Fale comigo aqui no GitHub](https://github.com/matheusmarquezinhub)  
+
 
 ### 🤖 Linguagens e Tecnologias
+
+--- 
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
     <img 
@@ -43,13 +46,16 @@ Dá uma olhada nos repositórios e, se te ajudar, já valeu a visita! ✨
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </div>
 
-<hr/>
-
 ### 📊 Minhas Estatísticas
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=matheusmarquezinhub&show_icons=true&theme=dark)
+---
 
+<a href="http://www.github.com/matheusmarquezinhub"><img src="https://github-readme-stats.vercel.app/api?username=matheusmarquezinhub&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rikemorais's GitHub stats" /></a>
+
+<a href="https://github.com/matheusmarquezinhub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarquezinhub&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### 🎯 Projetos em Destaque
+
+---
 
 📊 **Dashboard**: [Projeto01](https://app.powerbi.com/view?r=eyJrIjoiMmJiMjI5ODktMjQxNi00Yzc3LWI0OTYtYjg1NjI0YzliZWRiIiwidCI6IjA0NWZiZjVjLTBjMzItNDdhMy1hYWI2LThlZjE3MGVlODY5MSJ9)
