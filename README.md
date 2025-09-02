@@ -43,12 +43,6 @@ Dá uma olhada nos repositórios e, se te ajudar, já valeu a visita! ✨
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </div>
 
-<br/>
-
-<hr/>
-
-<br/>
-
 <hr/>
 
 ### 🎯 Projetos em Destaque
