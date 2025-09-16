@@ -59,3 +59,7 @@ Dá uma olhada nos repositórios e, se te ajudar, já valeu a visita! ✨
 ---
 
 📊 **Dashboard**: [Projeto01](https://app.powerbi.com/view?r=eyJrIjoiMmJiMjI5ODktMjQxNi00Yzc3LWI0OTYtYjg1NjI0YzliZWRiIiwidCI6IjA0NWZiZjVjLTBjMzItNDdhMy1hYWI2LThlZjE3MGVlODY5MSJ9)
+
+
+--- 
+Thanks for visit my profile.
