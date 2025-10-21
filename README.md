@@ -2,8 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 
 Bem-vindo ao meu perfil do GitHub!  
-Transformo café em código e ideias em projetos que nascem da curiosidade e viram ferramentas úteis.  
-Dá uma olhada nos repositórios e, se te ajudar, já valeu a visita! ✨
 
 ### 📫 Vamos nos conectar
 
