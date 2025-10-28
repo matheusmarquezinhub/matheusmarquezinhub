@@ -3,15 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Bem-vindo ao meu perfil do GitHub!  
 
-### 📫 Vamos nos conectar
-
----
-
-* 💼 [Siga-me no LinkedIn](https://www.linkedin.com/in/matmarquuezin)  
-
-* 📬 [Fale comigo aqui no GitHub](https://github.com/matheusmarquezinhub)  
-
-
 ### 🤖 Linguagens e Tecnologias
 
 --- 
