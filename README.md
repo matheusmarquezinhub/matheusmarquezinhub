@@ -9,8 +9,3 @@ Hi,
 | [salao-beleza-analytics](https://github.com/matheusmarquezinhub/salao-beleza-analytics) | Análise de faturamento para salões de beleza usando SQL Server e técnicas de BI. |
 | [analise-atendimentos](https://github.com/matheusmarquezinhub/analise-atendimentos) | Conjunto de consultas SQL para análise de atendimentos, retenção, desempenho e classificação ABC. |
 
-
-## 📝 License
-
-All content is shared under the [MIT License](LICENSE).  
-You can use, modify, and share these resources freely.
