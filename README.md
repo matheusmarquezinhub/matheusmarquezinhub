@@ -3,7 +3,7 @@ Hi 👋, I'm Matheus!
 Welcome to my GitHub profile! I'm a Data Analyst passionate about building impactful solutions with Power BI, SQL and Python.
 
 ## 🔗 Let's Connect
-- Follow me on - 💼 [LinkedIn](https://www.linkedin.com/in/matheus-marquezin)
+- Follow me on - 💼 [LinkedIn](https://www.linkedin.com/in/matmarquuezin/)
 - 📧 Email: marquuezinmatheus@gmail.com
 - Reach me here on GitHub
 
