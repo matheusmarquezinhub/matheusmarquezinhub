@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I'm a Data Analyst passionate about building impac
 
 ## 📫 Let's Connect
 - 💼 Follow me on [LinkedIn](https://www.linkedin.com/in/matmarquuezin/)
+- 📊 Find my notebooks on [Kaggle](https://www.kaggle.com/matheusmarquezin)
 - 📧 Email: marquuezinmatheus@gmail.com
 - 📬 Reach me here on GitHub
 
