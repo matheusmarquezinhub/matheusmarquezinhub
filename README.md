@@ -6,15 +6,6 @@ Data Analyst focused on turning **operational and business data into decisions**
 
 ---
 
-## 🚀 What I do
-
-* Analyze operational efficiency and performance
-* Identify high-value vs low-value customers
-* Build data-driven insights for business decisions
-* Transform data into clear and actionable storytelling
-
----
-
 ## 🛠 Tech Stack
 
 * SQL Server
@@ -39,15 +30,6 @@ Exploratory analysis identifying patterns and risk groups using real-world data.
 👉 https://github.com/matheusmarquezinhub/revenue-storytelling-with-data
 
 Revenue analysis focused on clear insights and executive-level storytelling.
-
----
-
-## 💡 What I analyze
-
-* Operational efficiency
-* Customer value (RFM, LTV)
-* Business performance
-* Data storytelling
 
 ---
 
