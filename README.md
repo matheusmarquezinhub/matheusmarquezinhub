@@ -6,14 +6,6 @@ Data Analyst focused on turning **operational and business data into decisions**
 
 ---
 
-## 🛠 Tech Stack
-
-* SQL Server
-* Power BI
-* Python
-
----
-
 ## 📊 Featured Projects
 
 ### 🔹 Operational Efficiency vs Customer Value  
