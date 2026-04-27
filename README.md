@@ -8,15 +8,15 @@ Data Analyst focused on turning **operational and business data into decisions**
 
 ## 📊 Featured Projects
 
-### 🔹 Operational Efficiency vs Customer Value  
-👉 https://github.com/matheusmarquezinhub/operational-efficiency-vs-customer-value  
-
-Understand which customers generate value and which consume operational effort.
-
 ### 🔹 Mental Health Data Analysis
 👉 https://github.com/matheusmarquezinhub/mental-health-kaggle
 
 Exploratory analysis identifying patterns and risk groups using real-world data.
+
+### 🔹 Operational Efficiency vs Customer Value  
+👉 https://github.com/matheusmarquezinhub/operational-efficiency-vs-customer-value  
+
+Understand which customers generate value and which consume operational effort.
 
 ### 🔹 Revenue Storytelling with Data
 👉 https://github.com/matheusmarquezinhub/revenue-storytelling-with-data
