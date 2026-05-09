@@ -18,11 +18,6 @@ Exploratory analysis identifying patterns and risk groups using real-world data.
 
 Understand which customers generate value and which consume operational effort.
 
-### 🔹 Revenue Data Storytelling
-👉 https://github.com/matheusmarquezinhub/revenue-data-storytelling
-
-Revenue analysis focused on clear insights and executive-level storytelling.
-
 ---
 
 ## 🔗 Connect with me
