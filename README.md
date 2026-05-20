@@ -27,7 +27,7 @@ Analista de Dados focado em inteligência de negócios e eficiência operacional
 > **Ferramentas:** Python, EDA (Exploratory Data Analysis), Pandas.
 
 
-> #### 🔹 [Operational Efficiency vs Customer Value](https://github.com/matheusmarquezinhub/operational-efficiency-vs-customer-value)
+#### 🔹 [Operational Efficiency vs Customer Value](https://github.com/matheusmarquezinhub/operational-efficiency-vs-customer-value)
 > **Resumo:** Análise de performance e otimização do mix de serviços para identificar quais clientes geram valor e quais consomem esforço operacional excessivo.
 > **Ferramentas:** Python (Pandas, Matplotlib/Seaborn), Jupyter Notebook.
 
