@@ -43,10 +43,3 @@ Analista de Dados focado em inteligência de negócios e eficiência operacional
 > **Ferramentas:** Python, EDA (Exploratory Data Analysis), Pandas.
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheusmarquezinhub&show_icons=true&theme=radial&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmarquezinhub&layout=compact&theme=radial&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%">
-</p>
