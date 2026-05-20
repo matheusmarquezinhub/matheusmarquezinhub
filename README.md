@@ -20,11 +20,6 @@ Understand which customers generate value and which consume operational effort.
 
 ---
 
-## 🔗 Connect with me
-
-- 💼 Follow me on [LinkedIn](https://www.linkedin.com/in/matmarquuezin/)
-- 📧 Email: marquuezinmatheus@gmail.com
-
 Focused on turning data into decisions that drive real business impact. ✨
 
 ---
