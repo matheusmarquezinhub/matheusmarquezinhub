@@ -22,12 +22,13 @@ Analista de Dados focado em inteligência de negócios e eficiência operacional
 
 ### 📊 Projetos
 
-#### 🔹 [Operational Efficiency vs Customer Value](https://github.com/matheusmarquezinhub/operational-efficiency-vs-customer-value)
-> **Resumo:** Análise de performance e otimização do mix de serviços para identificar quais clientes geram valor e quais consomem esforço operacional excessivo.
-> **Ferramentas:** Python (Pandas, Matplotlib/Seaborn), Jupyter Notebook.
-
 #### 🔹 [Mental Health Analysis](https://github.com/matheusmarquezinhub/mental-health-kaggle)
 > **Resumo:** Estudo exploratório utilizando dados reais de saúde mental para identificar grupos de risco, padrões de comportamento e gerar visualizações intuitivas.
 > **Ferramentas:** Python, EDA (Exploratory Data Analysis), Pandas.
+
+
+> #### 🔹 [Operational Efficiency vs Customer Value](https://github.com/matheusmarquezinhub/operational-efficiency-vs-customer-value)
+> **Resumo:** Análise de performance e otimização do mix de serviços para identificar quais clientes geram valor e quais consomem esforço operacional excessivo.
+> **Ferramentas:** Python (Pandas, Matplotlib/Seaborn), Jupyter Notebook.
 
 ---
