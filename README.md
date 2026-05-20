@@ -20,7 +20,7 @@ Analista de Dados focado em inteligência de negócios e eficiência operacional
 
 ---
 
-### 📊 Meu Impacto em Projetos (Destaques)
+### 📊 Projetos
 
 #### 🔹 [Operational Efficiency vs Customer Value](https://github.com/matheusmarquezinhub/operational-efficiency-vs-customer-value)
 > **Resumo:** Análise de performance e otimização do mix de serviços para identificar quais clientes geram valor e quais consomem esforço operacional excessivo.
